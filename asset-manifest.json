@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfff5bb7.css",
+    "main.js": "/static/js/main.01b19196.js",
+    "static/media/SpoqaHanSansNeo-Bold.woff": "/static/media/SpoqaHanSansNeo-Bold.dc75532918fd412e27a3.woff",
+    "static/media/SpoqaHanSansNeo-Regular.woff": "/static/media/SpoqaHanSansNeo-Regular.4af655e2b88a518cc85c.woff",
+    "static/media/SpoqaHanSansNeo-Medium.woff": "/static/media/SpoqaHanSansNeo-Medium.823120084c9ac260b260.woff",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/icon-insta.svg": "/static/media/icon-insta.8a3662af5b8eba98c8ae.svg",
+    "static/media/icon-shopping-cart.svg": "/static/media/icon-shopping-cart.fb559eef06cbd36853bc.svg",
+    "static/media/icon-yt.svg": "/static/media/icon-yt.04e1e03c2433c5605df6.svg",
+    "static/media/icon-user.svg": "/static/media/icon-user.d6e6542c29daf583e08e.svg",
+    "static/media/icon-fb.svg": "/static/media/icon-fb.007bca7478ec099be661.svg",
+    "static/media/icon-search.svg": "/static/media/icon-search.437d9205132d575b0f0e.svg",
+    "index.html": "/index.html",
+    "static/media/icon-plus.svg": "/static/media/icon-plus.db1dfdbd95aa19065559.svg",
+    "static/media/icon-delete.svg": "/static/media/icon-delete.ba8d00dab607e6e14de5.svg",
+    "static/media/check-fill-box.svg": "/static/media/check-fill-box.03e6a01c3e380e8c6513.svg",
+    "static/media/icon-rhigt-arrow.svg": "/static/media/icon-rhigt-arrow.ae800d7b9ab744c817f0.svg",
+    "static/media/icon-check-off.svg": "/static/media/icon-check-off.17622ad99a260af807d1.svg",
+    "static/media/icon-check-on.svg": "/static/media/icon-check-on.b7d08d1791f31bcb2492.svg",
+    "static/media/icon-plus-line.svg": "/static/media/icon-plus-line.d658909c1751cb655de6.svg",
+    "static/media/check-box.svg": "/static/media/check-box.4cee541530c16c28d323.svg",
+    "static/media/icon-minus-line.svg": "/static/media/icon-minus-line.73ef1e8c52aa8aab95e5.svg",
+    "main.dfff5bb7.css.map": "/static/css/main.dfff5bb7.css.map",
+    "main.01b19196.js.map": "/static/js/main.01b19196.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfff5bb7.css",
+    "static/js/main.01b19196.js"
+  ]
+}
