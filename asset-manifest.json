@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/open-market/static/css/main.27f2c826.css",
-    "main.js": "/open-market/static/js/main.85813c56.js",
+    "main.js": "/open-market/static/js/main.5f9611fe.js",
     "static/media/SpoqaHanSansNeo-Bold.woff": "/open-market/static/media/SpoqaHanSansNeo-Bold.dc75532918fd412e27a3.woff",
     "static/media/SpoqaHanSansNeo-Regular.woff": "/open-market/static/media/SpoqaHanSansNeo-Regular.4af655e2b88a518cc85c.woff",
     "static/media/SpoqaHanSansNeo-Medium.woff": "/open-market/static/media/SpoqaHanSansNeo-Medium.823120084c9ac260b260.woff",
@@ -26,10 +26,10 @@
     "static/media/check-box.svg": "/open-market/static/media/check-box.4cee541530c16c28d323.svg",
     "static/media/icon-minus-line.svg": "/open-market/static/media/icon-minus-line.73ef1e8c52aa8aab95e5.svg",
     "main.27f2c826.css.map": "/open-market/static/css/main.27f2c826.css.map",
-    "main.85813c56.js.map": "/open-market/static/js/main.85813c56.js.map"
+    "main.5f9611fe.js.map": "/open-market/static/js/main.5f9611fe.js.map"
   },
   "entrypoints": [
     "static/css/main.27f2c826.css",
-    "static/js/main.85813c56.js"
+    "static/js/main.5f9611fe.js"
   ]
 }
